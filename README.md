@@ -38,6 +38,13 @@ Exploring the world of technology and development, seeking knowledge and growth.
 <img src="https://img.shields.io/badge/-ReactRouter-CA4245?logo=reactrouter&logoColor=white" width="100" height="30">
 <img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-.ENV-000000?logo=dotenv&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/-Csharp-239120?logo=csharp&logoColor=white" width="80" height="30">
+
+</div>
+
+
+
+### > Learning about...
+<div align-itens="center" justify-content="center">
+    <h2> <h2>
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="80" height="30">
 </div>
