@@ -31,8 +31,8 @@ Exploring the world of technology and development, seeking knowledge and growth.
 <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white" width="80" height="30">
-<img src="https://img.shields.io/badge/-Nest-E0234E?logo=nestjs&logoColor=white" width="80" height="30">
 </br>
+<img src="https://img.shields.io/badge/-Nest-E0234E?logo=nestjs&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Json-000000?logo=json&logoColor=white" width="80" height="30">
 <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white" width="80" height="30">
