@@ -8,12 +8,12 @@
 
 Exploring the world of technology and development, seeking knowledge and growth.
 
+
 ### > My Technical skills.:
 
 
-
 <div align-itens="center" justify-content="center">
-    <h2> <h2>
+    <h2> </h2>
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white"  alt="JavaScript" width="100" height="30">
   <img width="1" />
   <img src="https://img.shields.io/badge/-Typescript-3178C6?logo=typescript&logoColor=white" width="100" height="30">
@@ -45,6 +45,6 @@ Exploring the world of technology and development, seeking knowledge and growth.
 
 ### > Learning about...
 <div align-itens="center" justify-content="center">
-    <h2> <h2>
+    <h2> </h2>
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" width="80" height="30">
 </div>
